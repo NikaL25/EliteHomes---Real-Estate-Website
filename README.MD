@@ -38,6 +38,8 @@ A modern and responsive real estate website built with **HTML, CSS, and JavaScri
 
 ### 🌐 Live Demo
 
-[**View Foodie Restaurant Website →**]()
-## ⚠️  Note
+[**View Foodie Restaurant Website →**](https://nikal25.github.io/EliteHomes---Real-Estate-Website/)
+
+## ⚠️ Note
+
 This is a **front-end project**. The contact form, property search, favorites, and comparison features are currently implemented as a demonstration and are not connected to a backend or database.
